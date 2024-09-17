@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning on AI
 <!--
 **Aqvafor-AI/Aqvafor-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
