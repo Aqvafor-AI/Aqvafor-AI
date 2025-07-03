@@ -7,9 +7,12 @@ Passionate about neural networks, LLMs and automating routine tasks with AI.
 
 - 💻 Tech Stack
   
-💻 Python, Keras, TensorFlow, PyTorch, OpenCV, scikit-learn
+💻 Python, Keras, TensorFlow, PyTorch, OpenCV, scikit-learn,
+
 🌐 FastAPI, Streamlit, Gradio
+
 📊 pandas, matplotlib, seaborn
+
 🧠 Deep Learning, Computer Vision, NLP, LLM, RAG, Reinforcement Learning
 <!--
 **Aqvafor-AI/Aqvafor-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
