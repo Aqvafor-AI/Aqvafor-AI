@@ -14,6 +14,9 @@ Passionate about neural networks, LLMs and automating routine tasks with AI.
 📊 pandas, matplotlib, seaborn
 
 🧠 Deep Learning, Computer Vision, NLP, LLM, RAG, Reinforcement Learning
+
+- 🔭 Below are portfolio projects that demonstrate my skills and technologies in action.
+
 <!--
 **Aqvafor-AI/Aqvafor-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
