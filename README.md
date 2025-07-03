@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning on AI
+- 🌱 Always learning and building in AI
 
 Hi, I'm Mark — Junior Machine Learning Engineer and ex-Frontend Developer.
 Passionate about neural networks, LLMs and automating routine tasks with AI.
