@@ -1,5 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning on AI
+
+Hi, I'm Mark — Junior Machine Learning Engineer and ex-Frontend Developer.
+Passionate about neural networks, LLMs and automating routine tasks with AI.
 <!--
 **Aqvafor-AI/Aqvafor-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
