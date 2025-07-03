@@ -6,6 +6,7 @@ Passionate about neural networks, LLMs and automating routine tasks with AI.
 
 
 - 💻 Tech Stack
+  
 💻 Python, Keras, TensorFlow, PyTorch, OpenCV, scikit-learn
 🌐 FastAPI, Streamlit, Gradio
 📊 pandas, matplotlib, seaborn
